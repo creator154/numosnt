@@ -1,1 +1,1 @@
-web: numint web --port $PORT
+web: numint web --host 0.0.0.0 --port $PORT
